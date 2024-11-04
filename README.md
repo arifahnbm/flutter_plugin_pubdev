@@ -12,3 +12,9 @@ Berikut adalah kode yang sudah dibenarkan
 
 Menambahkan widget di main.dart
 ![alt text](image-4.png)
+
+Hasil menggunakan plugin camera
+![alt text](image-5.png)
+
+Hasil menggunakan filter
+![alt text](image-6.png)

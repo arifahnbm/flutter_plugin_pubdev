@@ -1,16 +1,14 @@
-# flutter_plugin_pubdev
+Menambahkan Plugin
+![alt text](image.png)
 
-A new Flutter project.
+Membuat file red_text_widget.dart
+![alt text](image-1.png)
 
-## Getting Started
+Menambah widget AutoSizeText
+![alt text](image-2.png)
+Saya mendapatkan info error karena method AutoSizeText() belum didefinisikan dan properti text juga belum didefinisikan
+Berikut adalah kode yang sudah dibenarkan
+![alt text](image-3.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Menambahkan widget di main.dart
+![alt text](image-4.png)
